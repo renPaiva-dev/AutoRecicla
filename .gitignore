@@ -1,0 +1,12 @@
+# Backend
+backend/autorecicla-api/target/
+backend/autorecicla-api/src/main/resources/application.properties
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
